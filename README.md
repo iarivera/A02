@@ -1,13 +1,4 @@
-# A02
-
-## Part 1: Downloading Webstorm
-1. Go to [this link](https://www.jetbrains.com/webstorm/) to install the Webstorm IDE.
-2. Run the executable to install Webstorm on your system.
-3. Select a valid Jetbrains license
-4. Write some code
-
-
-## Part 2: Glossary
+## Glossary
 - **Branch** - line of development where development occurs; git can track an arbitrary number of branches; working tree is associated with one branch 
 - **Clone** - copying a remote repository onto a local machine
 - **Commit** - storing a new snapshot of the project's state in the Git history
